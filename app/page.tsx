@@ -159,7 +159,7 @@
   import Link from "next/link";
   import Hero from "./components/hero";
 import SearchForm from "./components/SearchForm";
-import CarCard from "./components/CarCard";
+
 import {
   Card,
   CardContent,
@@ -167,6 +167,7 @@ import {
   CardFooter,
   CardHeader,
   CardTitle,
+  
 } 
 from "@/app/component/ui/card";
 

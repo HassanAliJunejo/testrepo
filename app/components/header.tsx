@@ -1,4 +1,5 @@
 // "use client"
+// import Image from 'next/image';
 // import React from 'react';
 
 // const Header: React.FC = () => {
@@ -86,7 +87,7 @@
 //             </svg>
 //           </button>
 //           <div className="w-8 h-8 rounded-full bg-gray-300">
-//           <img src="Image.png" alt="" />
+//           <Image width={1000} height={1000} src="Image.png" alt='image' />
 //           </div>
 //         </div>
 //       </div>
