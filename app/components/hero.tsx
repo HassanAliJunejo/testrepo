@@ -9,7 +9,7 @@ const Hero = () => {
         <p className="mb-4">Ease of doing a car rental safely and reliably. Of course at a low price.</p>
         <button className="bg-blue-700 text-white px-4 py-2 rounded">Rental Car</button>
         <Image 
-          src="/car1.png" 
+          src="/image 8 (2).png" 
           alt="Car Rental" 
           width={500} 
           height={300} 
@@ -23,7 +23,7 @@ const Hero = () => {
         <p className="mb-4">Providing cheap car rental services and safe and comfortable facilities.</p>
         <button className="bg-blue-500 text-white px-4 py-2 rounded">Rental Car</button>
         <Image 
-          src="/car2.png" 
+          src="/image 7 (2).png" 
           alt="Car Rental" 
           width={500} 
           height={300} 
